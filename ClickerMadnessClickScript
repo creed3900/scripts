@@ -1,0 +1,89 @@
+local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
+		
+		local args = {
+			[1] = _G.Multiplier
+		}
+ 
+		game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.ClickService.Click:FireServer(unpack(args))
